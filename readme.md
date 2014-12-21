@@ -33,5 +33,4 @@ C 5 C 6 8
 
 ## 解題策略
 
-基礎的 Minimun Spanning Tree，用 Kruskal's algorithm 解
- 
+基礎的 Minimun Spanning Tree，用 Kruskal's algorithm 解 [範例程式](main.cpp)
